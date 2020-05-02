@@ -8,3 +8,5 @@ Task 1 - Data Quality Assessment
 Task 2 - Data Insights
 
 Task 3 - Data Insights and Presentation
+
+Link to the program is available [here](https://www.insidesherpa.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship).
